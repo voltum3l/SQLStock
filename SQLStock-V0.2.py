@@ -5,7 +5,7 @@ from os import path
 from tkinter import *
 from tkinter import messagebox
 
-
+#--------------->>> VERSION 0.2
 
 #------------------------------>>> FUNCIONES
 
